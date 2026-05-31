@@ -1,0 +1,54 @@
+{
+  "total_parcels_in_cadastre_forecast": 79115,
+  "sample_in_demo": 79115,
+  "phase1": {
+    "counts_by_h": {
+      "H1_clear": 25747,
+      "H1_conditional": 12869,
+      "H1_apparent_red": 1168,
+      "amber": 2412,
+      "X": 36919
+    },
+    "counts_by_signal": {
+      "green": 25747,
+      "blue": 12869,
+      "amber": 2412,
+      "red": 1168,
+      "gray": 36919,
+      "": 0
+    },
+    "has_allowed_height": 46743,
+    "has_zone": 65429,
+    "has_operative_plan_type": 49320,
+    "has_agup_packet": 609
+  },
+  "phase2": {
+    "counts_by_h": {
+      "H1_clear": 36919,
+      "H1_conditional": 0,
+      "H1_apparent_red": 0,
+      "amber": 0,
+      "H3": 42196,
+      "X": 0
+    },
+    "pct_H3_or_better": 53.3
+  },
+  "headline": {
+    "tile1": {
+      "number": "79 115",
+      "label_bg": "имота в кадастъра на Варна — пълен обхват и на двете поръчки"
+    },
+    "tile2": {
+      "number": "3 709",
+      "label_bg": "публични акта по ПУП от 2017 г. насам, разчетени и индексирани към всеки имот"
+    },
+    "tile3": {
+      "number": "59%",
+      "label_bg": "от имотите с установена допустима височина още след Предварителния анализ (по публични източници)"
+    },
+    "tile4": {
+      "number": "100%",
+      "label_bg": "покритие след Задълбочения анализ — за 53% обоснован извод (Н3), за останалите установена допустима височина (Н1) от общинския архив"
+    }
+  }
+}

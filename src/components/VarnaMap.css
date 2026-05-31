@@ -1,0 +1,31 @@
+.varna-map-wrap { position: relative; height: 100%; width: 100%; }
+.varna-map { height: 100%; width: 100%; border-radius: var(--r-md); background: #e6ebe1; }
+
+.varna-legend {
+  position: absolute; bottom: 14px; left: 14px;
+  background: rgba(255,255,255,0.96); border: 1px solid var(--c-border);
+  border-radius: var(--r-md); padding: 10px 12px;
+  font-size: 12px; box-shadow: var(--shadow-sm);
+  z-index: 1000;
+  max-width: 320px;
+}
+.varna-legend .lbl { margin-bottom: 8px; }
+.legend-row { display: flex; align-items: center; gap: 8px; padding: 3px 0; line-height: 1.3; }
+.legend-swatch { width: 12px; height: 12px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+.legend-divider { height: 1px; background: var(--c-border); margin: 6px 0; }
+
+.varna-provenance {
+  position: absolute; top: 14px; right: 14px;
+  background: rgba(255,255,255,0.96);
+  border: 1px solid var(--c-border);
+  border-left: 3px solid var(--c-muni);
+  border-radius: var(--r-md);
+  padding: 10px 14px;
+  font-size: 12px;
+  line-height: 1.45;
+  box-shadow: var(--shadow-sm);
+  z-index: 1000;
+  max-width: 340px;
+}
+.varna-provenance .lbl { margin-bottom: 6px; }
+.varna-provenance p { margin: 0; color: var(--c-text); }

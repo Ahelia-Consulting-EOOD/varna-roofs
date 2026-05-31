@@ -1,0 +1,24 @@
+.headline-band {
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  gap: 0; background: var(--c-dark-soft);
+  padding: 22px 28px;
+  color: #fff;
+}
+.headline-tile {
+  padding: 6px 22px;
+  border-left: 1px solid rgba(255,255,255,0.12);
+}
+.headline-tile:first-child { border-left: none; }
+.headline-number {
+  font-size: 38px; font-weight: 700; line-height: 1.0; letter-spacing: -0.02em;
+  color: #fff;
+}
+.headline-label {
+  margin-top: 8px;
+  font-size: 13px; line-height: 1.35;
+  color: rgba(255,255,255,0.82);
+}
+@media (max-width: 800px) {
+  .headline-band { grid-template-columns: repeat(2, 1fr); }
+  .headline-tile { border-left: none; border-bottom: 1px solid rgba(255,255,255,0.12); }
+}

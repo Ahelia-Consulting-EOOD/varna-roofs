@@ -1,0 +1,15 @@
+.header-bar {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 28px;
+  background: var(--c-surface);
+  border-bottom: 1px solid var(--c-border);
+}
+.header-title { display: flex; flex-direction: column; gap: 2px; }
+.header-mark { font-weight: 700; letter-spacing: 0.02em; color: var(--c-dark); }
+.header-sub { font-size: 13px; color: var(--c-text-soft); }
+.header-meth {
+  background: transparent; border: 1px solid var(--c-border);
+  padding: 7px 14px; border-radius: var(--r-md);
+  color: var(--c-text); font-size: 13px;
+}
+.header-meth:hover { background: var(--c-bg); }

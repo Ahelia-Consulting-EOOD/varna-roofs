@@ -1,0 +1,64 @@
+{
+  "10135.4504.416": [],
+  "10135.1507.906": [
+    {
+      "building_cadnum": "10135.1507.906.1",
+      "use_bg": "Жилищна сграда - многофамилна",
+      "primary_use_class": "residential",
+      "floors": 2,
+      "footprint_m2": 101.46
+    }
+  ],
+  "10135.1505.37": [
+    {
+      "building_cadnum": "10135.1505.37.6",
+      "use_bg": "Жилищна сграда - многофамилна",
+      "primary_use_class": "residential",
+      "floors": 7,
+      "footprint_m2": 260.31
+    },
+    {
+      "building_cadnum": "10135.1505.37.7",
+      "use_bg": "Гараж",
+      "primary_use_class": "other",
+      "floors": 1,
+      "footprint_m2": 126.46
+    }
+  ],
+  "10135.2563.586": [],
+  "10135.2510.836": [],
+  "10135.2573.332": [
+    {
+      "building_cadnum": "10135.2573.332.1",
+      "use_bg": "Хотел",
+      "primary_use_class": "other",
+      "floors": 4,
+      "footprint_m2": 432.68
+    },
+    {
+      "building_cadnum": "10135.2573.332.2",
+      "use_bg": "Сграда за обществено хранене",
+      "primary_use_class": "other",
+      "floors": 2,
+      "footprint_m2": 361.53
+    }
+  ],
+  "10135.1026.177": [
+    {
+      "building_cadnum": "10135.1026.177.10",
+      "use_bg": "Жилищна сграда - многофамилна",
+      "primary_use_class": "residential",
+      "floors": 6,
+      "footprint_m2": 343.45
+    }
+  ],
+  "10135.1030.343": [
+    {
+      "building_cadnum": "10135.1030.343.6",
+      "use_bg": "Жилищна сграда - многофамилна",
+      "primary_use_class": "residential",
+      "floors": 7,
+      "footprint_m2": 158.38
+    }
+  ]
+}

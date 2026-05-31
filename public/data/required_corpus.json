@@ -1,0 +1,110 @@
+{
+  "header_bg": "Пълен корпус (21 типа)",
+  "types": [
+    {
+      "name_bg": "ОУП правила и нормативи + Приложение № 1",
+      "publication": "must_publish",
+      "first_at": "H1"
+    },
+    {
+      "name_bg": "СПН (специфични правила и нормативи)",
+      "publication": "must_publish",
+      "first_at": "H1"
+    },
+    {
+      "name_bg": "Кадастрална карта и регистри",
+      "publication": "must_publish",
+      "first_at": "H1"
+    },
+    {
+      "name_bg": "Наредба 7 чл. 74 (методика на измерване)",
+      "publication": "must_publish",
+      "first_at": "H1"
+    },
+    {
+      "name_bg": "Скица на ПИ (АГКК услуга 360)",
+      "publication": "paid",
+      "first_at": "H2"
+    },
+    {
+      "name_bg": "Извадка от действащ ПУП + заповед",
+      "publication": "must_publish_act",
+      "first_at": "H2"
+    },
+    {
+      "name_bg": "Архивен план копие (АГКК услуга 1698)",
+      "publication": "paid",
+      "first_at": "H2"
+    },
+    {
+      "name_bg": "ПУП-ПРЗ (план за регулация и застрояване)",
+      "publication": "partial",
+      "first_at": "H3"
+    },
+    {
+      "name_bg": "ПЗ (план за застрояване)",
+      "publication": "partial",
+      "first_at": "H3"
+    },
+    {
+      "name_bg": "РУП (силует и абсолютни коти)",
+      "publication": "partial",
+      "first_at": "H3"
+    },
+    {
+      "name_bg": "Изменения на ПУП/ОУП",
+      "publication": "partial",
+      "first_at": "H3"
+    },
+    {
+      "name_bg": "ЗУЧК зона А/Б определяне",
+      "publication": "must_publish",
+      "first_at": "H3"
+    },
+    {
+      "name_bg": "Режим за опазване + ЗКН устройствен план",
+      "publication": "partial",
+      "first_at": "H3"
+    },
+    {
+      "name_bg": "Инженерно-геоложко проучване (свлачища)",
+      "publication": "partial",
+      "first_at": "H3"
+    },
+    {
+      "name_bg": "Виза за проектиране",
+      "publication": "paid",
+      "first_at": "H4"
+    },
+    {
+      "name_bg": "Разрешение за строеж",
+      "publication": "must_publish_act",
+      "first_at": "H4"
+    },
+    {
+      "name_bg": "Одобрен инвестиционен проект",
+      "publication": "restricted",
+      "first_at": "H4"
+    },
+    {
+      "name_bg": "Разрешение за ползване / Акт 16 / УВЕ",
+      "publication": "must_publish_act",
+      "first_at": "H4"
+    },
+    {
+      "name_bg": "Констативен акт обр. 15 / протокол обр. 16",
+      "publication": "restricted",
+      "first_at": "H4"
+    },
+    {
+      "name_bg": "Удостоверение за търпимост",
+      "publication": "paid",
+      "first_at": "H4"
+    },
+    {
+      "name_bg": "Решение/заповед за одобряване (ДВ; ЕПРУТ)",
+      "publication": "must_publish",
+      "first_at": "H2"
+    }
+  ]
+}
